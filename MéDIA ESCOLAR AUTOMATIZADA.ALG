@@ -24,5 +24,5 @@ escreva("você passou.")
 senao
 escreva("Você não passou.")
 fimse
-escreval("suas notas foram essas,respectivamente:",n1,",",n2,",",n3," e ",n4)
+escreval("Aqui está a sua média: ", media)
 Fimalgoritmo
